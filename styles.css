@@ -1,6 +1,15 @@
-.heading {
+.page-heading {
     background-color: rgb(9, 122, 122);
     color: white;
     text-align: center;
     font-family: Garamond, serif;
+}
+
+.section {
+    font-family: Garamond, serif;
+}
+
+.home-link {
+    font-family: Garamond, serif;
+    text-align: center;
 }
